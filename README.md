@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `deployed with surge.sh`
+
+Runs the app into K5 browser.\
+Open [https://klv-sign-test.surge.sh](https://klv-sign-test.surge.sh)
+
 ## Available Scripts
 
 In the project directory, you can run:
